@@ -1,0 +1,4 @@
+variable,dataset_id,rows,file
+temperature,sbwg-7ju4,0,C:\Users\santiago\OneDrive\Desktop\Fisica del Clima\proyectos-clima\proyecto 1\data\raw\temperature\ideam_temperature_quindio_salento_2015-01-01_2015-12-31_daily.csv
+precipitation,s54a-sgyg,0,C:\Users\santiago\OneDrive\Desktop\Fisica del Clima\proyectos-clima\proyecto 1\data\raw\precipitation\ideam_precipitation_quindio_all_municipalities_2015-01-01_2015-12-31_daily.csv
+humidity,uext-mhny,0,C:\Users\santiago\OneDrive\Desktop\Fisica del Clima\proyectos-clima\proyecto 1\data\raw\humidity\ideam_humidity_quindio_salento_2015-01-01_2015-12-31_daily.csv
